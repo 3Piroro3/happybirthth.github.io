@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>PIRO cafeへようこそ</title>
+  </head>
+  <body>
+  <div>
+    <h1>PIRO cafe</h1>
+
+  <ul>
+
+
+    <li><a href="index.html">ホーム</a></li>
+    <li><a href="about.index">店舗案内</a></li>
+    <li><a href="#">アクセス</a></li>
+    <li><a href="#">メニュー</a></li>
+  </ul>
+</div>
+<div class="">
+  
+  <h2>むずかしいいいい</h2>
+  <input type="text" name="" value="">
+  <input type="submit" name="" value="送信">
+  </body>
+</html>
